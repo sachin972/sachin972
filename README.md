@@ -26,7 +26,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![ReactJS](https://img.shields.io/badge/ReactJS-%20-blue)
   ![Angular](https://img.shields.io/badge/Angular-%20-orange)
-  ![Django](https://img.shield.io/badge/-Django-333333?style=flat&logo=Django)
+<!--   ![Django](https://img.shield.io/badge/-Django-333333?style=flat&logo=Django) -->
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
