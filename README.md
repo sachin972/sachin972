@@ -55,5 +55,5 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin972&theme=radical&show_icons=true" />
 </div>
 
- <h3 align="center">Show some :heart: by starring some of my repositories! </h3> 
+<!--  <h3 align="center">Show some :heart: by starring some of my repositories! </h3>  -->
   
