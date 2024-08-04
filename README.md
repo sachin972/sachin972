@@ -4,9 +4,9 @@
 
    
    ## :wave: About Me 
-👩‍🎓 Hey! I'm Sachin, a Tech Enthusiast persuing my bachelors from Harcourt Butler Technical University, Kanpur. 
+👩‍🎓 Hey! I'm Sachin, a Tech Enthusiast currently working as an SDET in WeCP PVT LTD, Bengaluru. 
 
-👩‍💻 Nowadays, I’m exploring Web Development. I regularly practice DSA questions on [**Leetcode**](https://leetcode.com/sachin972/).
+👩‍💻 Nowadays, I'm working on cypress, nodejs and angular. Apart from that I am currently learning java, spring boot. I regularly practice DSA questions on [**Leetcode**](https://leetcode.com/sachin972/).
  
 
 💻 Worked as a Mentor in Chegg for various students and solved their doubts in Computer Science topics.
