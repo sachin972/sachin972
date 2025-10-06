@@ -4,10 +4,11 @@
 
    
    ## :wave: About Me 
-👩‍🎓 Hey! I'm Sachin, a Tech Enthusiast currently working as an SDET in WeCP PVT LTD, Bengaluru. 
+👩‍🎓 Hey! I'm Sachin, a Tech Enthusiast currently working as an SDE in Paytm. 
 
-👩‍💻 Nowadays, I'm working on cypress, nodejs and angular. Apart from that I am currently learning java, spring boot. I regularly practice DSA questions on [**Leetcode**](https://leetcode.com/sachin972/).
- 
+👩‍💻 Nowadays, I'm working on Java, SpringBoot, Redis, Kafka, MySQL and AWS(EC2, RDS, API Gateway, etc). I regularly practice DSA questions on [**Leetcode**](https://leetcode.com/sachin972/).
+
+💻 Worked as a SDET in WeCP PVT LTD, Bengaluru on cypress, angular, nodejs, postgreSQL and AWS(EC2, RDS and Cloudwatch).
 
 💻 Worked as a Mentor in Chegg for various students and solved their doubts in Computer Science topics.
 
